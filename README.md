@@ -29,6 +29,9 @@ I use and develop tools to support research, learning, scientific writing, and d
 🧬 **[SimpleFold on FoldBench](https://github.com/miove527/SimpleFold_on_Foldbench)**
 An experiment evaluating SimpleFold on the FoldBench monomer protein benchmark, with scripts for prediction and evaluation.
 
+📚 **Obsidian Knowledge Base**
+A personal knowledge base for course notes, research, and ideas, organized in an annually updated Obsidian vault.
+
 🌿 **campus-plant-explore_LingXi**
 A WeChat mini program for exploring plants on campus.
 
@@ -40,7 +43,7 @@ A collection of personal Codex skills for research, writing, and everyday workfl
 
 ## Beyond research
 
-I enjoy learning across disciplines, from statistics to artificial intelligence.
+I enjoy learning across disciplines 📚, from statistics 📊 to artificial intelligence 🤖. I also enjoy watching sports, especially table tennis 🏓, swimming 🏊, and tennis 🎾. Other things I like include photography 📷, city walks 🚶, cats and dogs 🐈 🐕, trying different cuisines 🍜, and cooking 🍳.
 
 ---
 
